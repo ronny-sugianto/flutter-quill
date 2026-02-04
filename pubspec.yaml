@@ -55,7 +55,7 @@ dependencies:
 
   quill_native_bridge:
     git:
-      url: git@github.com:ronny-sugianto/quill-native-bridge.git
+      url: https://github.com/ronny-sugianto/quill-native-bridge.git
       ref: main
       path: quill_native_bridge
 
